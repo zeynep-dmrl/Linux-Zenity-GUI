@@ -8,6 +8,7 @@ görünteleyen ve bu log içinde arama yapılmasını sağlayan
 bir programdır. Zenity kütüphanesi 
 kullanarak bir arayüz tasarlamıştır.
 Zenity kütüphanesi kurmak için
+
 ```
 sudo apt-get install zenity
 ```
@@ -68,7 +69,9 @@ lastlog dosyası binary bir dosyadır ve her bir kullanıcının en son ne zaman
 adresinden oturum açtığını da gösterir
 
 ## Uygulamanın Çalışması ve Özellikleri
-Uygulamayı ``` bash odev.sh ```  komutu ile terminalden çalıştırabilirsiniz.
+Projeyi kendi bilgisayarınıza indirmelisiniz. Daha sonra uygulamayı
+``` bash odev.sh ```  
+komutu ile terminalden çalıştırabilirsiniz.
 
 Ana menüden istediğiniz bir log dosyası seçebilirsiniz.
 
@@ -80,7 +83,7 @@ Ardından seçtiğiniz dosyanın içeriği gelicektir. Tamam butonuna tıklayara
 
 ![AramaMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaMenu.png) ![AramaForm](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaForm.png)
 
-Aradığınız eğer dosyada bulunuyorsa sonuç gösterilecektir.Fakat eğer dosyada bulunmayan bir içerik arattığınızda uyarı alabilirsiniz.
+Aradığınız eğer dosyada bulunuyorsa sonuç gösterilecektir. Fakat eğer dosyada bulunmayan bir içerik arattığınızda uyarı alabilirsiniz.
 
 ![AramaSonucu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaSonucu.png)
 
