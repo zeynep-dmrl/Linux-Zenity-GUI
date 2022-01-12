@@ -87,4 +87,5 @@ Aradığınız eğer dosyada bulunuyorsa sonuç gösterilecektir. Fakat eğer do
 
 ![AramaSonucu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaSonucu.png)
 
+Projenin tam olarak nasıl çalıştığını öğrenmek için [tıklayınız]()
 
