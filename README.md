@@ -78,8 +78,11 @@ komutu ile terminalden çalıştırabilirsiniz.
 ![dosyaSecmeMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/dosyaSecmeMenu.png)
 
 **Ardından seçtiğiniz dosyanın içeriği gelicektir.** 
-
 ![secilendosya](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/secilendosyaimg.png)
+
+**Eğer seçtiğiniz dosya erişim gerekli bir dosya ise erişim için parola widget gelicektir. Buraya kullanıcı parolanızı girmelisiniz dosya içeriği ancak 
+bu şekilde görebilirsiniz..**
+![parola](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/parola.png)
 
 **Tamam butonuna tıklayarak arama menüsüne giderek doyada aramak istediğinizi girebilirsiniz.**
 
@@ -88,6 +91,11 @@ komutu ile terminalden çalıştırabilirsiniz.
 **Aradığınız eğer dosyada bulunuyorsa sonuç gösterilecektir. Fakat eğer dosyada bulunmayan bir içerik arattığınızda uyarı alabilirsiniz.**
 
 ![AramaSonucu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaSonucu.png)
+
+Ve bazı uygulamadaki dialogs
+![dosyaSecilmedi](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/dosyaSecilmedi.png)
+![aramabulunamadı](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/aramabulunamadı.png)
+![aramasonuclanamadı](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/aramasonuclanamadı.png)
 
 
 Projenin tam olarak nasıl çalıştığını öğrenmek için [tıklayınız]()
