@@ -73,19 +73,22 @@ Projeyi kendi bilgisayarınıza indirmelisiniz. Daha sonra uygulamayı
 ``` bash odev.sh ```  
 komutu ile terminalden çalıştırabilirsiniz.
 
-Ana menüden istediğiniz bir log dosyası seçebilirsiniz.
+**Ana menüden istediğiniz bir log dosyası seçebilirsiniz.**
 
 ![dosyaSecmeMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/dosyaSecmeMenu.png)
 
-Ardından seçtiğiniz dosyanın içeriği gelicektir. Tamam butonuna tıklayarak arama menüsüne giderek doyada aramak istediğinizi girebilirsiniz.
+**Ardından seçtiğiniz dosyanın içeriği gelicektir.** 
 
 ![secilendosya](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/secilendosyaimg.png)
 
+**Tamam butonuna tıklayarak arama menüsüne giderek doyada aramak istediğinizi girebilirsiniz.**
+
 ![AramaMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaMenu.png) ![AramaForm](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaForm.png)
 
-Aradığınız eğer dosyada bulunuyorsa sonuç gösterilecektir. Fakat eğer dosyada bulunmayan bir içerik arattığınızda uyarı alabilirsiniz.
+**Aradığınız eğer dosyada bulunuyorsa sonuç gösterilecektir. Fakat eğer dosyada bulunmayan bir içerik arattığınızda uyarı alabilirsiniz.**
 
 ![AramaSonucu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaSonucu.png)
+
 
 Projenin tam olarak nasıl çalıştığını öğrenmek için [tıklayınız]()
 
