@@ -77,8 +77,8 @@ Ana menüden istediğiniz bir log dosyası seçebilirsiniz.
 Ardından seçtiğiniz dosyanın içeriği gelicektir. Tamam butonuna tıklayarak arama menüsüne giderek doyada aramak istediğinizi girebilirsiniz.
 
 ![secilendosya](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/secilendosyaimg.png)
-![AramaMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaMenu.png)
-![AramaForm](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaForm.png)
+
+![AramaMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaMenu.png) ![AramaForm](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaForm.png)
 
 Aradığınız eğer dosyada bulunuyorsa sonuç gösterilecektir.Fakat eğer dosyada bulunmayan bir içerik arattığınızda uyarı alabilirsiniz.
 
