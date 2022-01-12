@@ -11,7 +11,7 @@ else
 	aramaKontrol=$(cat $FILE | grep -w $aranan)
 	if [ ${#aramaKontrol} == 0 ]
 	then
-		zenity --info\
+		zenity --warning\
 		--width=400 --height=200\
 		--text="$aranan bulunamadı"
 	else
