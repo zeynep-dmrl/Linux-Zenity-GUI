@@ -82,7 +82,7 @@ komutu ile terminalden çalıştırabilirsiniz.
 
 **Eğer seçtiğiniz dosya erişim gerekli bir dosya ise erişim için parola widget gelicektir. Buraya kullanıcı parolanızı girmelisiniz dosya içeriği ancak 
 bu şekilde görebilirsiniz..**
-![parola](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/parola.png)
+![parola](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/parola.jpeg)
 
 **Tamam butonuna tıklayarak arama menüsüne giderek doyada aramak istediğinizi girebilirsiniz.**
 
@@ -92,9 +92,9 @@ bu şekilde görebilirsiniz..**
 
 ![AramaSonucu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaSonucu.png)
 
-Ve bazı uygulamadaki dialogs
-![dosyaSecilmedi](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/dosyaSecilmedi.png)
-![aramabulunamadı](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/aramabulunamadı.png)
+Ve bazı uygulamadaki dialogs...
+
+![dosyaSecilmedi](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/dosyaSecilmedi.png) ![aramabulunamadı](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/aramabulunamadı.png)
 ![aramasonuclanamadı](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/aramasonuclanamadı.png)
 
 
