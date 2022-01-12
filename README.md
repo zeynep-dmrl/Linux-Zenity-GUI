@@ -78,13 +78,15 @@ komutu ile terminalden çalıştırabilirsiniz.
 ![dosyaSecmeMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/dosyaSecmeMenu.png)
 
 **Ardından seçtiğiniz dosyanın içeriği gelicektir.** 
+
 ![secilendosya](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/secilendosyaimg.png)
 
 **Eğer seçtiğiniz dosya erişim gerekli bir dosya ise erişim için parola widget gelicektir. Buraya kullanıcı parolanızı girmelisiniz dosya içeriği ancak 
 bu şekilde görebilirsiniz..**
+
 ![parola](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/parola.jpeg)
 
-**Tamam butonuna tıklayarak arama menüsüne giderek doyada aramak istediğinizi girebilirsiniz.**
+**Tamam butonuna tıklayarak arama menüsüne giderek dosyada aramak istediğinizi girebilirsiniz.**
 
 ![AramaMenu](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaMenu.png) ![AramaForm](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/AramaForm.png)
 
