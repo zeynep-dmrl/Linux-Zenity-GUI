@@ -100,5 +100,5 @@ Ve bazı uygulamadaki dialogs...
 ![aramasonuclanamadı](https://github.com/zeynep-dmrl/Linux-Zenity-GUI/blob/main/imgs/aramasonuclanamadı.png)
 
 
-Projenin tam olarak nasıl çalıştığını öğrenmek için [tıklayınız]()
+Projenin tam olarak nasıl çalıştığını öğrenmek için tıklayınız
 
