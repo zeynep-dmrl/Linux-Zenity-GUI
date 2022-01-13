@@ -70,7 +70,7 @@ adresinden oturum açtığını da gösterir
 
 ## Uygulamanın Çalışması ve Özellikleri
 Projeyi kendi bilgisayarınıza indirmelisiniz. Daha sonra uygulamayı
-``` bash odev.sh ```  
+``` bash run.sh ```  
 komutu ile terminalden çalıştırabilirsiniz.
 
 **Ana menüden istediğiniz bir log dosyası seçebilirsiniz.**
